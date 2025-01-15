@@ -9,7 +9,7 @@ namespace Abstract__and_Interfaces_Lesson_8
         {
             Dog dog = new Dog();
             Console.WriteLine("what is your dog's name?");
-            dog.Name = Console.ReadLine(); 
+            dog.Name = Console.ReadLine().ToString(); 
             dog.SetName(dog.Name);
 
             Console.WriteLine("what is your dog's eat?");
