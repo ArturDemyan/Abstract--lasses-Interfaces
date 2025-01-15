@@ -20,3 +20,10 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+/Abstract _and_Interfaces_Lesson_8/.vs
+*.csproj
+*.sln
+*.json
+*.dll
+/Abstract _and_Interfaces_Lesson_8/Abstract _and_Interfaces_Lesson_8/bin
+/Abstract _and_Interfaces_Lesson_8/Abstract _and_Interfaces_Lesson_8/obj
